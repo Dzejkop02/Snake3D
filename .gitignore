@@ -1,0 +1,6 @@
+dependencies
+glad.c
+x64
+Snake3D.vcxproj
+Snake3D.vcxproj.filters
+Snake3D.vcxproj.user
